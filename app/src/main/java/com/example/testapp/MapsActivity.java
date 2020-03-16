@@ -28,6 +28,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         //TEST Comment 2
 
+        //TEST Comment 3
+
     }
 
 

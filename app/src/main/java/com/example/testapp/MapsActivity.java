@@ -26,6 +26,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         //TEST Comment 1
 
+        //TEST Comment 2
+
     }
 
 
